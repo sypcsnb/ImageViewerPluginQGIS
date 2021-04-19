@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "viewer/js/requirejs/",
+			"problemMatcher": [],
+			"label": "npm: install - viewer/js/requirejs",
+			"detail": "install dependencies from package"
+		}
+	]
+}
